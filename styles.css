@@ -1,0 +1,215 @@
+/* algemene instellingen */
+
+
+
+body {
+  font-family:"Times New Roman", Times, serif;
+  font-size: 2ch;
+  color: #333;
+  background-color: rgb(235, 216, 131) ;
+  box-sizing: auto;
+  border:solid  10px;
+  color:#29b340;
+}
+ 
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 10px 0;
+}
+
+
+p {
+  margin: 10px;
+}
+
+.tabelcelletje{
+  width: 250px;
+}
+
+#tr1td1 { 
+  float: left;  
+  display: inline;  
+  margin-left: 15px;  
+  margin-right: 15px;  
+  padding: 10px;
+  border: solid black 6px;
+  background-color: #f59191;
+  border-radius : 5px 5px 0px 0px; 
+}
+
+
+#tr1td2 { 
+  float: left;  
+  display: inline;  
+  margin-left: 15px; 
+  width: 250px; 
+  margin-right: 15px;  
+  padding: 10px;
+  background-color: #db8c42;
+  border-radius : 5px 5px 0px 0px; 
+}
+
+#tr1td3 { 
+  float: left;  
+  display: inline;  
+  margin-left: 15px;  
+  margin-right: 15px;  
+  padding: 10px;
+  background-color: #af0404;
+  border-radius : 5px 5px 0px 0px; 
+}
+
+#tr1td4 { 
+  float: left;  
+  display: inline;  
+  margin-left: 15px;  
+  margin-right: 15px;  
+  padding: 10px;
+  width: 250px;
+  background-color: #f34e4e;
+  border-radius : 5px 5px 0px 0px; 
+}
+
+
+
+#tr2td1 { 
+  float: left;  
+  display: inline;  
+  margin-left: 15px;  
+  margin-right: 15px;  
+  padding: 10px;
+  background-color: #9e5dd3;
+  border-radius : 5px 5px 0px 0px; 
+}
+
+
+#tr2td2 { 
+  float: left;  
+  display: inline;  
+  margin-left: 15px;  
+  margin-right: 15px;  
+  padding: 10px;
+  width: 250px;
+  background-color: #1db1a4;
+  border-radius : 5px 5px 0px 0px; 
+}
+
+#tr2td3 { 
+  float: left;  
+  display: inline;  
+  margin-left: 15px;  
+  margin-right: 15px;  
+  padding: 10px;
+  background-color: #d8267f;
+  border-radius : 5px 5px 0px 0px; 
+}
+
+#tr2td4 { 
+  float: left;  
+  display: inline;  
+  margin-left: 15px;  
+  margin-right: 15px;  
+  padding: 10px;
+  width: 250px;
+  background-color: #356b02;
+  border-radius : 5px 5px 0px 0px; 
+}
+
+
+#tr3td1 { 
+  float: left;  
+  display: inline;  
+  margin-left: 15px;  
+  margin-right: 15px;  
+  padding: 10px;
+  background-color: lightcyan;
+  border-radius : 5px 5px 0px 0px; 
+}
+
+
+#tr3td2 { 
+  float: left;  
+  display: inline;  
+  margin-left: 15px;  
+  margin-right: 15px;  
+  padding: 10px;
+  background-color:burlywood;
+  border-radius : 5px 5px 0px 0px; 
+}
+
+#tr3td3 { 
+  float: left;  
+  display: inline;  
+  margin-left: 15px;  
+  margin-right: 15px;  
+  padding: 10px;
+  background-color:darkgoldenrod;
+  border-radius : 5px 5px 0px 0px; 
+}
+
+#tr3td4 { 
+  float: left;  
+  display: inline;  
+  margin-left: 15px;  
+  margin-right: 15px;  
+  padding: 10px;
+  background-color: rgb(166, 236, 233);
+  border-radius : 5px 5px 0px 0px; 
+}
+
+
+#tr4td1 { 
+  float: left;  
+  display: inline;  
+  margin-left: 15px;  
+  margin-right: 15px;  
+  padding: 10px;
+  background-color: red;
+  border-radius : 5px 5px 0px 0px; 
+}
+
+
+#tr4td2 { 
+  float: left;  
+  display: inline;  
+  margin-left: 15px;  
+  margin-right: 15px;  
+  padding: 10px;
+  background-color:rgb(78, 241, 14);
+  border-radius : 5px 5px 0px 0px; 
+}
+
+#tr4td3 { 
+  float: left;  
+  display: inline;  
+  margin-left: 15px;  
+  margin-right: 15px;  
+  padding: 10px;
+  background-color:lightskyblue;
+  border-radius : 5px 5px 0px 0px; 
+}
+
+#tr4td4 { 
+  float: left;  
+  display: inline;  
+  margin-left: 15px;  
+  margin-right: 15px;  
+  padding: 10px;
+  background-color: lightseagreen;
+  border-radius : 5px 5px 0px 0px; 
+}
+
+
+
+table {
+  
+  width: 100%;
+}
+
+
+
